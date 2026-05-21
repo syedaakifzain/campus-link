@@ -1,1 +1,1 @@
-A Java Full
+A Java FullStack
