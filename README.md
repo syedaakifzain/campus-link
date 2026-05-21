@@ -1,1 +1,1 @@
-A Java FullStack
+A Java FullStack Project
