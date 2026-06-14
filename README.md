@@ -1,2 +1,2 @@
 A Java FullStack Project
-for students to get opportu
+for students to get opportunities
