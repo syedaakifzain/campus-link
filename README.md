@@ -1,2 +1,2 @@
 A Java FullStack Project
-for students to
+for students to get
